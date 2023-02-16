@@ -20,3 +20,6 @@
 ### Machine Learning Note
 
 - [Tensorflow-CIFAR10](https://github.com/alpapago/Tensorflow-CIFAR10) : CIFAR10 Dataset Learning Code using MLP(Multi-Layer Perceptron)
+
+##🔨 Problem Solving
+  <img src="http://mazandi.herokuapp.com/api?handle=isk7659&theme=cold"></image>
