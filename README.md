@@ -1,7 +1,5 @@
 ## 👋 About Me
 
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=timeGradient&height=240&section=header&text=%20Shinae%20Lee%20GitHub%20&fontSize=50&animation=fadeIn&fontAlignY=36)
-
 - Backend Developing Learner
 - ML/DL Learner
 
