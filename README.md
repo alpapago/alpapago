@@ -1,7 +1,7 @@
 ## 👋 About Me
 
 - Backend Developing Learner
-- ML/DL Learner
+- ML/DL Learner 
 
 ## 💻 Skills
 
