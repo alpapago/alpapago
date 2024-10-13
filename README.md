@@ -22,12 +22,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=flat&logo=JiraSoftware&logoColor=white"/>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 
-## 📁 Study Note
-
-### Machine Learning Note
-
-- [Tensorflow-CIFAR10](https://github.com/alpapago/Tensorflow-CIFAR10) : CIFAR10 Dataset Learning Code using MLP(Multi-Layer Perceptron)
-
 ## 🔨 Problem Solving
 
  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dancemonkey)](https://solved.ac/dancemonkey)
