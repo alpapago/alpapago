@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-- Backend Developing Learner
+- AI Infra Administrator
 - ML/DL Learner 
 
 ## 💻 Skills
